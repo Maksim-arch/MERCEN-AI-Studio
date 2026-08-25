@@ -1,6 +1,12 @@
-# MERCEN AI Studio
+<p align="center">
+  <img src="MERCEN.png" width="180" alt="MERCEN AI Studio">
+</p>
 
-**AI-powered image generation, editing and enhancement for Windows.**
+<h1 align="center">MERCEN AI Studio</h1>
+
+<p align="center">
+  AI-powered image generation, editing and enhancement for Windows.
+</p>
 
 MERCEN AI Studio is a desktop application for creating, editing and processing images with artificial intelligence.
 
