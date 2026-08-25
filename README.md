@@ -45,6 +45,21 @@ Local processing allows users with compatible hardware to perform AI operations 
 
 ---
 
+## Screenshots
+
+### Main Interface
+
+![MERCEN AI Studio Main Interface](screenshots/Home.png)
+
+### AI Image Generation
+
+![MERCEN AI Studio Image Generation](screenshots/create-generation.png)
+
+### AI Image Enhancement
+
+![MERCEN AI Studio Image Enhancement](screenshots/image-enhancement.png)
+
+---
 ## System Requirements
 
 ### Operating System
